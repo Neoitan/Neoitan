@@ -27,13 +27,13 @@ I am in a Master's degree in computer science at Le havre, France. After I got m
 | :green_circle: | Baccalauréat |  
 | :green_circle: | DUT Informatique |  
 | :green_circle: | Licence informatique |  
-| :man_student: | Master |  
+| :green_circle: | Master |  
 
 
 ## Workshop
 - I'm working on some projects with full of languages.  
 
-### Profesional work
+<!-- ### Profesional work
 
 1. Bookshelf  
    :arrow_right: [to git repository](https://github.com/Neoitan/Bookshelf)  
@@ -64,4 +64,4 @@ I am in a Master's degree in computer science at Le havre, France. After I got m
 ### Games
 
 1. Pokemon History (rom hack)  
-   :arrow_right: [to git repository](https://github.com/Neoitan/PokemonHistory)  
+   :arrow_right: [to git repository](https://github.com/Neoitan/PokemonHistory)   -->
